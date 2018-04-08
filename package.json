@@ -15,7 +15,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git://github.com/gerhardberger/electron-pdf-window.git"
+    "url": "git://github.com/nandanprac/electron-pdf-window.git"
   },
   "dependencies": {
     "deep-extend": "^0.4.1",
